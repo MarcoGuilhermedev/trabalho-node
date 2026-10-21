@@ -8,7 +8,7 @@ app.get('/', (req, res) => {
         <html lang="pt">
         <head>
             <meta charset="UTF-8">
-            <title>Página Inicial</title>
+            <title>Trabalho do Node</title>
             <style>
                 body { font-family: Arial, sans-serif; text-align: center; padding-top: 50px; background-color: #f0f2f5; }
                 h1 { color: #1877f2; }
