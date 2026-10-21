@@ -8,7 +8,7 @@ app.get('/', (req, res) => {
         <html lang="pt">
         <head>
             <meta charset="UTF-8">
-            <title>Trabalho do Node</title>
+            <title>Projeto do Node</title>
             <style>
                 body { font-family: Arial, sans-serif; text-align: center; padding-top: 50px; background-color: #f0f2f5; }
                 h1 { color: #1877f2; }
@@ -16,7 +16,7 @@ app.get('/', (req, res) => {
             </style>
         </head>
         <body>
-            <h1>Apresentação Node.js - Página Inicial</h1>
+            <h1>Projeto do Node.js - Página Inicial</h1>
             <p>Aplicação web baseada no modelo Request-Response.</p>
             <nav>
                 <a href="/">Início</a> | 
