@@ -16,7 +16,7 @@ app.get('/', (req, res) => {
             </style>
         </head>
         <body>
-            <h1>Trabalho Node.js - Página Inicial</h1>
+            <h1>Apresentação Node.js - Página Inicial</h1>
             <p>Aplicação web baseada no modelo Request-Response.</p>
             <nav>
                 <a href="/">Início</a> | 
